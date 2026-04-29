@@ -1,11 +1,12 @@
 bin/
 obj/
+*.user
+*.suo
 .vs/
 .vscode/
 .git/
 .gitignore
 README.md
-*.user
-*.suo
 Dockerfile
 .dockerignore
+*.md
